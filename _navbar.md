@@ -1,2 +1,2 @@
 - [Getting Started](quick-start.md)
-- [Feedback](/#feedback)
+- [Awesome Project](https://github.com/sindresorhus/awesome)
