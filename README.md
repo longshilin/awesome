@@ -1,4 +1,4 @@
-![Page Deploy](https://github.com/longshilin/wiki/workflows/Page%20Deploy/badge.svg)
+![Page Deploy](https://github.com/longshilin/awesome/workflows/Page%20Deploy/badge.svg)
 
 [Docsify 中文文档](https://docsify.js.org/#/zh-cn/)
 
