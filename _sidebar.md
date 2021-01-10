@@ -4,5 +4,5 @@
 
 - Getting Started
 
-  - [Quick Start](quick-start.md)
+  - [Gaming](game.md)
 
