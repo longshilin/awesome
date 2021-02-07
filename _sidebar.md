@@ -12,8 +12,3 @@
   - [Awesome Gamedev2](https://github.com/skywind3000/awesome-gamedev)
   - [Game Development](https://game-development.zeef.com/tom.looman)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTczNTEwMDYsMTIzNDIzNjY5NSwtMT
-U0MzY4ODgsMTEyOTc2Nzc5NSwxMjU5NDczMDgsMTM2NjkzNjE3
-NV19
--->
