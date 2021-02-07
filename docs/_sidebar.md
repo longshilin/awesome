@@ -7,8 +7,9 @@
   - [Awesome Gamedev1](https://github.com/Calinou/awesome-gamedev)
   - [Awesome Gamedev2](https://github.com/skywind3000/awesome-gamedev)
   - [Blog](blog.md)
+  - [收藏夹](collection.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM2ODg4LDExMjk3Njc3OTUsMTI1OT
-Q3MzA4LDEzNjY5MzYxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTQ0NDg0NywtMTU0MzY4ODgsMTEyOT
+c2Nzc5NSwxMjU5NDczMDgsMTM2NjkzNjE3NV19
 -->
