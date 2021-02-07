@@ -1,4 +1,4 @@
-## 游戏模块插件
+# 游戏模块插件
 - [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
 ![enter image description here](https://github.com/qiankanglai/LoopScrollRect/raw/master/Images/demo1.gif)
 
@@ -10,5 +10,5 @@ RichText有效的解决了上面的问题。我们依赖unity的高效动态合�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzQ2MDU3NywxMzY0NTk2NjQ2XX0=
+eyJoaXN0b3J5IjpbLTEzOTM2MTgxOCwxMzY0NTk2NjQ2XX0=
 -->
