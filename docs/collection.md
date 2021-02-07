@@ -1,7 +1,7 @@
+- [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
+![enter image description here](https://github.com/qiankanglai/LoopScrollRect/raw/master/Images/demo1.gif)
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MDg4ODMxNTBdfQ==
 -->
